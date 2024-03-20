@@ -40,8 +40,8 @@ function DOERS() {
                 <p className=" text-md-start text-center ff-roboto fw-400 opacity_7 text-16 lh-21 text-white difficult_pera mb-0">
                   Web3 Games have a notoriously high barrier-to-entry for casual
                   gamers who make up the vast majority of players. “Link your
-                  wallet” before gameplay is not just off-putting, it’s boring.
-                  We’re solving that with{" "}
+                  wallet” before gameplay is not just off-putting, it&apos;s boring.
+                  We&apos;re solving that with{" "}
                   <span className=" fw-600">world-class storytelling</span>,
                   world-building, game design, art and sound. And fun.
                 </p>
@@ -71,7 +71,7 @@ function DOERS() {
               <p className=" text-white mb-0 pb-49 opacity_7 ff-roboto fw-400 text-16 lh-24">
                 Every frame becomes a brushstroke, every motion a choreographed
                 dance, contributing to a symphony of visuals that captivate
-                players' senses and ignite their imagination.
+                players&apos; senses and ignite their imagination.
               </p>
               <div className="ellipes position-absolute  ellipes_pos_1"></div>
             </div>
